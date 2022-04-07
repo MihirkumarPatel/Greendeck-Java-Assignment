@@ -40,15 +40,19 @@ getting a list of images posted by D4
 ## Follow another user
 
 In the screenshot below we passed a request from account D4 to follow user E5
+
 ![Screenshot (530)](https://user-images.githubusercontent.com/49793433/162266676-2716b6a0-6312-454d-bbdc-096311334a3e.png)
 
+
 The below Screenshot confirms above action
+
 ![Screenshot (531)](https://user-images.githubusercontent.com/49793433/162266834-0c4fde33-748b-4862-afdb-d2361cadec5a.png)
 
 
 ## List of users I (current account) follows...
 
 Below Screenshot is of B2 user following C3
+
 ![Screenshot (540)](https://user-images.githubusercontent.com/49793433/162267346-a15d13f8-fc4a-488e-8710-5171bad5c4aa.png)
 
 
@@ -61,6 +65,7 @@ B2 follows C3
 D4 follows E5
 
 So when we request the 2nd degree suggestions for A1, the result should consist of list having C3, E5
+
 ![Screenshot (538)](https://user-images.githubusercontent.com/49793433/162267225-9ddc9cd9-daa7-44ef-a6ff-ba7de03b6602.png)
 
 
